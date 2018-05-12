@@ -1,0 +1,38 @@
+_repo: The-Works-of-Guy-de-Maupassant-Volume-2_17375
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2005-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Short stories, French -- Translations into English'
+tableOfContents: Monsieur Parent -- The Father -- A Vagabond -- Useless Beauty --
+  Fly -- The Mad Woman -- That Pig of a Morin -- The Wooden Shoes -- A Normandy Joke
+  -- A Cock Crowed -- Julot's Opinion -- Mademoiselle -- The Mountebanks -- The Sequel
+  to a Divorce -- The Man with the Dogs -- The Clown -- Babette -- Sympathy -- The
+  Debt -- An Artist -- Mademoiselle Fifi -- The Story of a Farm Girl -- Mamma Stirling
+  -- Lilie Lala -- Madame Tellier's Establishment -- The Bandmaster's Sister -- False
+  Alarm -- Wife and Mistress -- Mad -- An Unfortunate Likeness -- The New Sensation.
+title: The Works of Guy de Maupassant, Volume 2
+url: http://www.gutenberg.org/ebooks/17375
